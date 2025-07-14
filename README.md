@@ -69,10 +69,15 @@ Here are some ideas to get you started:
   <h3 align="left">📬 Let's Connect!</h3>
   <p>Feel free to reach out for collaboration, coding, or just to say hi!</p>
 --->
-![LinkedIn Banner](https://github.com/footcricket05/footcricket05/assets/93007427/506208ea-bff3-437d-8a1f-4a80396e8f60)
+![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQGJmYEPomrOaQ/profile-displaybackgroundimage-shrink_350_1400/B56ZZXe.V_HsAY-/0/1745224461218?e=1758153600&v=beta&t=UXLPHwYHN74qGQnP17WJaSmhch_1RCiUDnvtAAHLJcg)
 
 ---
-
+<div align="center">
+  <div id="header">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Welcome Gif">
+  </div>
+  <div id="badges">
+    
 ## 🙋‍♂️ About Me
 
 - 👀 I’m interested in Programming, Databases, Networking, Cloud & DevOps...!
