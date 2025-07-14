@@ -161,8 +161,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
          <img src="https://github-readme-stats.vercel.app/api?username=ParthG26&count_private=true&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
         </td>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthG26&layout=compact&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
-
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthG26&layout=compact&show_icons=true&theme=dracula&hide_border=true" alt="Top Languages" />
         </td>
       </tr>
     </table>
