@@ -72,6 +72,10 @@ Here are some ideas to get you started:
 ![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D5616AQGJmYEPomrOaQ/profile-displaybackgroundimage-shrink_350_1400/B56ZZXe.V_HsAY-/0/1745224461218?e=1758153600&v=beta&t=UXLPHwYHN74qGQnP17WJaSmhch_1RCiUDnvtAAHLJcg)
 
 ---
+<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+Parth+Galhotra;Cloud+DevOps+Engineer;Competitive+Programmer;Tech+Entusiast;Probelm+Solver" alt="Typing SVG" />
+<br>
+  
 <div align="center">
   <div id="header">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Welcome Gif">
