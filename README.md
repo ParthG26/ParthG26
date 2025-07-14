@@ -78,9 +78,7 @@ Here are some ideas to get you started:
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+Parth+Galhotra;Cloud+DevOps+Engineer;Competitive+Programmer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
   </br>
-  <div id="header">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Welcome Gif">
-  </div>
+</div>
 
     
 ## 🙋‍♂️ About Me
@@ -90,6 +88,13 @@ Here are some ideas to get you started:
 - 🤝 I’m looking to collaborate on Cloud & DevOps projects...
 - 📫 How to reach me - **pgalhotra007@gmail.com**
 - ⚡ Fun fact - I'm a weeb
+
+<div align="center">
+  <div id="header">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Welcome Gif">
+  </div>
+</div>
+
  <br>
   <p>
     <strong>Welcome to my digital playground!</strong><br>
