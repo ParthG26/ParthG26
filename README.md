@@ -93,8 +93,6 @@ Here are some ideas to get you started:
   <div id="header">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Welcome Gif">
   </div>
-</div>
-
  <br>
   <p>
     <strong>Welcome to my digital playground!</strong><br>
@@ -105,8 +103,8 @@ Here are some ideas to get you started:
     <br>
     <em>"The best way to predict the future is to invent it."</em>
   </p>
-  <br>
-
+  </br>
+</div>
 Aiming to leverage proven leadership, problem-solving, and technical skills to successfully be placed at your company. Frequently praised as detail-oriented by my peers, I can be relied upon to help your company achieve its goals.
 
  
