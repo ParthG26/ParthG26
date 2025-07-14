@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
   <h3 align="left">🛠️ Languages and Tools:</h3>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,mysql,html,css,vscode,linux,aws,awscli,boto3,terraform,ansible,jenkins,docker,kubernetes" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,mysql,html,css,vscode,linux,aws,terraform,ansible,jenkins,docker,kubernetes" alt="Tech stack" />
 </p>
 
   <h3 align="left">📊 GitHub Stats</h3>
