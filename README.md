@@ -161,7 +161,8 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
          <img src="https://github-readme-stats.vercel.app/api?username=ParthG26&count_private=true&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
         </td>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthG26&layout=compact&show_icons=true&theme=dracula&hide_border=true" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthG26&layout=compact&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
+
         </td>
       </tr>
     </table>
@@ -177,32 +178,35 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 
 
 ## Connect with me:
-<div id="badges">
-    <a href="https://www.linkedin.com/in/parth-galhotra-641779243" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-    <a href="mailto:pgalhotra007@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
-</a>
-    <a href="https://leetcode.com/u/ParthG26/" target="_blank">
-      <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge">
-    </a>
-  </div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/parth-galhotra-641779243" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="mailto:pgalhotra007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
+  </a>
+  <a href="https://leetcode.com/u/ParthG26/" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge">
+  </a>
+</div>
+
 
 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ParthG26">
-</a>
-<a href="https://github.com/ParthG26">
+
+<div align="center">
+  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ParthG26" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/ParthG26">
     <img src="https://img.shields.io/badge/hireable-yes-brightgreen?style=flat-square" alt="Hireable Badge">
-</a>
-<a href="https://github.com/ParthG26?tab=followers">
-    <img src="https://img.shields.io/github/followers/ParthG26?label=Followers&style=social" alt="GitHub Badge">
-</a>
-
-
+  </a>
+  <a href="https://github.com/ParthG26?tab=followers">
+    <img src="https://img.shields.io/github/followers/ParthG26?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</div>
 
 
 
