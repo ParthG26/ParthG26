@@ -17,13 +17,13 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Welcome Gif">
   </div>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/arpitsagar/" target="_blank">
+    <a href="https://www.linkedin.com/in/parth-galhotra-641779243" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
     <a href="mailto:pgalhotra007@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge">
 </a>
-    <a href="https://leetcode.com/u/fruity_226/" target="_blank">
+    <a href="https://leetcode.com/u/ParthG26/" target="_blank">
       <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Badge">
     </a>
   </div>
