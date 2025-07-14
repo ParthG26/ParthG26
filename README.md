@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<!-- <div align="center">
   <div id="header">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Welcome Gif">
   </div>
@@ -65,8 +65,118 @@ Here are some ideas to get you started:
 
 
   <br><br>
+
   <h3 align="left">📬 Let's Connect!</h3>
   <p>Feel free to reach out for collaboration, coding, or just to say hi!</p>
+--->
+![LinkedIn Banner](https://github.com/footcricket05/footcricket05/assets/93007427/506208ea-bff3-437d-8a1f-4a80396e8f60)
+
+---
+
+## 🙋‍♂️ About Me
+
+- 👀 I’m interested in Programming, Databases, Networking, Cloud & DevOps...!
+- 🌱 I’m currently learning Gen AI and DevOps...
+- 🤝 I’m looking to collaborate on Cloud & DevOps projects...
+- 📫 How to reach me - **pgalhotra007@gmail.com**
+- ⚡ Fun fact - I'm a weeb
+- ❔ Quote - Where's your will to be weird?
+
+
+Aiming to leverage proven leadership, problem-solving, and technical skills to successfully be placed at your company. Frequently praised as detail-oriented by my peers, I can be relied upon to help your company achieve its goals.
+
+ 
+ 
+## 🚀 Languages and Tools:
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=plastic&logo=autocad&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=plastic&logo=Canva&logoColor=black" height=20>
+  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=C%2B%2B&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=plastic&logo=googlecolab&color=525252" height=20>
+  <img src="https://img.shields.io/badge/CSS3-3776AB?style=plastic&logo=css3&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-FF0000?style=plastic&logo=cisco&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" height=20>
+
+  <img src="https://img.shields.io/badge/Git-%23121011?style=plastic&logo=Git&logoColor=#F05032" height=20>
+  <img src="https://img.shields.io/badge/GitHub-%23121011?style=plastic&logo=github&logoColor=white" height=20>
+
+  <img src="https://img.shields.io/badge/HTML5-E95420?style=plastic&logo=html5&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/IFTTT-000000?style=plastic&logo=ifttt&logoColor=white" height=20>
+
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Jupyter-white?style=plastic&logo=Jupyter&logoColor=orange" height=20>
+
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" height=20>
+
+  <img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Numpy-%23013243?style=plastic&logo=Numpy&logoColor=white" height=20>
+
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=plastic&logo=OpenCV&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=plastic&logo=pandas&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=black" height=20>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
+
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau&logoColor=blue" height=20>
+
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white" height=20>
+
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" height=20>
+</p>
+
+<h3 align="left">📊 GitHub Stats</h3>
+  <div align="center">
+    <table>
+      <tr>
+        <td>
+         <img src="https://github-readme-stats.vercel.app/api?username=ParthG26&count_private=true&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+        </td>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthG26&layout=compact&show_icons=true&theme=dracula&hide_border=true" alt="Top Languages" />
+        </td>
+      </tr>
+    </table>
+  </div>
+  <br>
+
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ParthG26&margin-w=8&margin-h=4&theme=onedark" alt="GitHub Trophies" />
+</div>
+
+
+
+## Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/shaurya-srinet/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/_shaurya_srinet/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ParthG26">
+</a>
+<a href="https://github.com/ParthG26">
+    <img src="https://img.shields.io/badge/hireable-yes-brightgreen?style=flat-square" alt="Hireable Badge">
+</a>
+<a href="https://github.com/ParthG26?tab=followers">
+    <img src="https://img.shields.io/github/followers/ParthG26?label=Followers&style=social" alt="GitHub Badge">
+</a>
+
+
+
+
+
 </div>
 
 ---
