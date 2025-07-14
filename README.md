@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     </a>
   </div>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=2DE7F7&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Arpit+Sagar!;Aspiring+Full+Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast;Open+Source+Lover+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Parth+Galhotra;Cloud+DevOps+Engineer;Competitive+Programmer;Tech+Entusiast;Probelm+Solver" alt="Typing SVG" />
   <br><br>
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" alt="Coding Gif">
   <br>
