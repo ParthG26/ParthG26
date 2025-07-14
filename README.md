@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 ---
 <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+Parth+Galhotra;Cloud+DevOps+Engineer;Competitive+Programmer;Tech+Entusiast;Probelm+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+Parth+Galhotra;Cloud+DevOps+Engineer;Competitive+Programmer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 <br>
   
 <div align="center">
@@ -165,8 +165,8 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/shaurya-srinet/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://www.instagram.com/_shaurya_srinet/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="www.linkedin.com/in/parth-galhotra-641779243"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/p.a.r.t.h._g/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 
