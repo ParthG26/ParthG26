@@ -157,7 +157,7 @@ Aiming to leverage proven leadership, problem-solving, and technical skills to s
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ParthG26&show_icons=true&count_private=true&hide=issues&hide_border=true&bg_color=000000&title_color=ff5555&text_color=ffffff&icon_color=61dafb" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthG26&layout=compact&hide_border=true&bg_color=000000&title_color=ff5555&text_color=ffffff&icon_color=61dafb&langs_count=6&hide=jupyter%20notebook,mdx,tex,html,lua,php&exclude_repo=Pacman-AI" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ARPIT226&hide_border=true&background=000000&ring=ff5555&fire=ff5555&currStreakLabel=61dafb&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&stroke=000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ParthG26&hide_border=true&background=000000&ring=ff5555&fire=ff5555&currStreakLabel=61dafb&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888&stroke=000000" />
 </p>
 
 
